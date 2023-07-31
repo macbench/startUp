@@ -134,11 +134,6 @@
                     <div>Parceiro 1</div>
                 </div>
                 <div class="ltBox">
-                <!--
-                    <img src="img/keyfortech_logotipo-pngwhite.png" alt="">
-                    <div>KeyForTech</div>
-                </div>
-                -->
             </div>
 
         </div>
